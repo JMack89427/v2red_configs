@@ -1,6 +1,6 @@
 [server]
-url = http://jason-linux.local:3334
-auth_token = c4e66bdd69b6b78c8a48
+url = http://imperial3d.local:3334
+auth_token = 1a9305c4933344f3c1fa
 
 [moonraker]
 host = 127.0.0.1
@@ -12,6 +12,6 @@ disable_video_streaming = False
 [logging]
 path = /home/pi/printer_data/logs/moonraker-obico.log
 
-[misc]
-sentry_opt = in
 
+[misc]
+sentry_opt: in

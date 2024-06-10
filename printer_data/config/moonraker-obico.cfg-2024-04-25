@@ -1,6 +1,6 @@
 [server]
-url = https://app.obico.io
-auth_token = 2f7a478911ca9c17e0a7
+url = http://imperial3d.local:3334
+auth_token = f1b8de63879251282354
 
 [moonraker]
 host = 127.0.0.1
@@ -11,6 +11,4 @@ disable_video_streaming = False
 
 [logging]
 path = /home/pi/printer_data/logs/moonraker-obico.log
-
-[tunnel]
 
